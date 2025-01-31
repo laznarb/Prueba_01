@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Otro cambio cuatro.txt cinco.txt
+=======
+Más cambios cuatro.txt cinco.txt
+>>>>>>> desarrollo
+Mas cambios
