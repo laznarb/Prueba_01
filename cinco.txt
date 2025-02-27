@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Cualquier cosa
+=======
+y mas cambios
+>>>>>>> desarrollo
